@@ -1,4 +1,3 @@
-# {{ ansible_managed_header }}
 # {{ ansible_managed }}
 
 {% for set in magento_logrotate_sets %}
