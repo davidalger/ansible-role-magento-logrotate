@@ -1,2 +1,20 @@
 ---
 dependencies: []
+
+galaxy_info:
+  role_name: magento_logrotate
+  author: David Alger
+  description: Installs a logrotate script for Magento in /etc/logrotate.d
+  license: MIT
+  min_ansible_version: 2.4
+
+  platforms:
+    - name: EL
+      versions:
+        - 7
+        - 6
+
+  galaxy_tags:
+    - system
+    - magento
+    - logrotate
