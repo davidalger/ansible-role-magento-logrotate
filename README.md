@@ -1,6 +1,6 @@
 # Ansible Role: Magento Logrotate
 
-[![Build Status](https://travis-ci.org/davidalger/ansible-role-magento-logrotate.svg?branch=master)](https://travis-ci.org/davidalger/ansible-role-magento-logrotate)
+[![Build Status](https://travis-ci.com/davidalger/ansible-role-magento-logrotate.svg?branch=master)](https://travis-ci.com/davidalger/ansible-role-magento-logrotate)
 
 Installs a logrotate script for Magento in /etc/logrotate.d
 
